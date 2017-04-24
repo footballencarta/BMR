@@ -1,6 +1,6 @@
 {
     "name": "footballencarta/bmr",
-    "description": "Nacho, nacho man. I want to be a nacho man",
+    "description": "PHP class to calculate the \"Basal Metabolic Rate\" using the The Mifflin St Jeor Equation. Supports lb, kg and stone for weight, and feet, inches and cm for height.",
     "license": "MIT",
     "keywords": ["bmr"],
     "authors": [
