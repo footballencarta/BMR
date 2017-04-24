@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/footballencarta/BMR.svg?branch=master)](https://travis-ci.org/footballencarta/BMR)
+
 # BMR
 PHP class to calculate the "Basal Metabolic Rate" using the The Mifflin St Jeor Equation. Supports lb, kg and stone for weight, and feet, inches and cm for height.
 
