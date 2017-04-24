@@ -1,0 +1,21 @@
+{
+    "name": "footballencarta/bmr",
+    "description": "Nacho, nacho man. I want to be a nacho man",
+    "license": "MIT",
+    "keywords": ["bmr"],
+    "authors": [
+        {
+            "name": "Damon Williams",
+            "email": "damon@damonwilliams.co.uk"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "6.1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Footballencarta\\BMR\\": "src"
+        }
+    }
+}
